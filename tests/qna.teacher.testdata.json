@@ -1,0 +1,12 @@
+{
+  "url": "https://ums-teacher-portal-6.osl.team",
+  "credentials": {
+    "tpin": "8544",
+    "password": "123456#"
+  },
+  "qna": {
+    "replyText": "reply from teacher 8544",
+    "submitDelayMin": 30,
+    "submitDelayMax": 100
+  }
+}
