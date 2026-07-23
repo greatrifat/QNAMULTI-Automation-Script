@@ -13,18 +13,18 @@
     "subjects": [],
     "chapters": [],
     "questions": [
-      "What is the acceleration due to gravity on Earth?",
-      "Does light travel faster than sound? (Yes/No)",
-      "What is the chemical symbol for water?",
-      "What is the largest planet in our solar system?",
-      "What is the process by which plants make their own food called?",
-      "What is the capital city of France?",
-      "What is the freezing point of water in degrees Celsius?",
-      "What is the main function of the respiratory system?"
+      "AI in Healthcare",
+      "Introduction to Artificial Intelligence",
+      "Machine Learning Fundamentals",
+      "AI for Business Automation",
+      "Ethics in Artificial Intelligence",
+      "Deep Learning Concepts",
+      "AI and Future Technologies",
+      "Natural Language Processing Basics"
     ],
     "teacherType": "human"
   },
   "workflow": {
-    "loopCount": 3
+    "loopCount": 1
   }
 }
